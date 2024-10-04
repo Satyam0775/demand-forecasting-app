@@ -34,7 +34,11 @@ demand-forecasting-app/
 ├── README.md             # Project documentation
 
 📊 Screenshots
-Top 10 Products	<img width="862" alt="Screenshot 2024-10-05 032807" src="https://github.com/user-attachments/assets/bab18f62-3420-455c-88af-778b14afe84e">
+Top 10 Products Sample	
+<img width="934" alt="Screenshot 2024-10-05 032605" src="https://github.com/user-attachments/assets/fdd4c576-693c-43c1-9121-2e3f775e21bd">
+<img width="869" alt="Screenshot 2024-10-05 032712" src="https://github.com/user-attachments/assets/53710ac1-4f5e-4bbc-9a61-7ba4358e5f5a">
+<img width="862" alt="Screenshot 2024-10-05 032807" src="https://github.com/user-attachments/assets/46122800-3a55-4d4c-a1cc-0fcd472287a5">
+
 
 
 
