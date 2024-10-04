@@ -32,4 +32,22 @@ demand-forecasting-app/
 ├── requirements.txt      # Python dependencies file
 ├── README.md             # Project documentation
 
+⚙️ Technology Stack
+Frontend: Streamlit
+Backend: Python (Pandas, NumPy)
+Visualization: Matplotlib
+Data: CSV file containing historical sales data
 
+✨ Features to Improve
+Add more sophisticated models (e.g., ARIMA, LSTM) for demand forecasting.
+Enhance visualizations with more interactive plots.
+Enable CSV downloads for the forecasted data.
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you have any suggestions or find bugs.
+
+🧑‍💻 Author
+Satyam - Satyam0775
