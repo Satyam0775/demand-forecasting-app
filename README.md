@@ -27,27 +27,33 @@ Check out the live app here: [Demand Forecasting App](https://demand-forecasting
    git clone https://github.com/Satyam0775/demand-forecasting-app.git
 
 demand-forecasting-app/
+
 ├── app.py                # The main Streamlit app script
 ├── ProductInfo.csv       # Sample dataset used for forecasting
 ├── requirements.txt      # Python dependencies file
 ├── README.md             # Project documentation
 
-⚙️ Technology Stack
+📊 Screenshots
+Top 10 Products	<img width="862" alt="Screenshot 2024-10-05 032807" src="https://github.com/user-attachments/assets/bab18f62-3420-455c-88af-778b14afe84e">
+
+
+
+#⚙ Technology Stack
 Frontend: Streamlit
 Backend: Python (Pandas, NumPy)
 Visualization: Matplotlib
 Data: CSV file containing historical sales data
 
-✨ Features to Improve
+#✨ Features to Improve
 Add more sophisticated models (e.g., ARIMA, LSTM) for demand forecasting.
 Enhance visualizations with more interactive plots.
 Enable CSV downloads for the forecasted data.
 
-📄 License
+#📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🤝 Contributing
+#🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you have any suggestions or find bugs.
 
 🧑‍💻 Author
-Satyam - Satyam0775
+Satyam - satyamriahav@gmail.com
